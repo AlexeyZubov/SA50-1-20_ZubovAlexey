@@ -1,0 +1,67 @@
+.cube{
+    height: 60px;
+    width: 60px;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.bord {
+    border-style: dotted;
+    border-radius: 3px;
+    border-color: grey;
+    padding-bottom: 40px;
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+#two{
+    margin-left: 120px;
+}
+#ggw{
+    position: relative;
+
+    top: -60px;
+    left: 40px; 
+}
+#gggw{
+    position: relative;
+    top: -120px;
+    left: -80px;
+}
+#cu1{
+        position: relative;
+        top: 60px;
+        left: 40px;
+    }
+#cu2{
+        position: relative;
+        top: 200px;
+        left: 940px;
+    }
+
+.newsbloc {
+    border-style: solid;
+    border-color: rgb(95, 175, 95);
+    background-color: rgb(95, 175, 95);
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+.outer {
+    border-style: solid;
+    border-color: rgb(95, 175, 95);
+    width: 90%;
+    height: 200px;
+    overflow: scroll;
+    margin: auto;
+    text-align: center;
+}
+.box {
+    border-style: dotted;
+    border-radius: 3px;
+    border-color: grey;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    width: 50%;
+    height: auto;
+    margin: auto;
+}
